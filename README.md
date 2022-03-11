@@ -10,3 +10,4 @@
 |[project_04](https://github.com/KseniiaOshchepkova/yandex_practicum_project/tree/main/Проект%2004): Определение перспективного тарифа для телеком-компании|Изучение зависимости выручки от тарифа и региона|pandas, numpy, matplotlib, scipy|
 |[project_05](https://github.com/KseniiaOshchepkova/yandex_practicum_project/tree/main/Проект%2005): Изучение рынка компьютерных игр|Выявление определяющих успешность игры закономерностей|pandas, numpy, matplotlib, scipy, seaborn|
 |[project_06](https://github.com/KseniiaOshchepkova/yandex_practicum_project/tree/main/Проект%2006): Изучение причин убытков компании|Поиск причин убытков: расчет и визуализация LTV, CAC, ROI|pandas, numpy, matplotlib, datetime|
+|[project_07](https://github.com/KseniiaOshchepkova/yandex_practicum_project/tree/main/Проект%2007): Приоритезация гипотез для увеличения выручки интернет-магазина, проведение А/В теста|pandas, numpy, matplotlib, datetime, scipy, math|
